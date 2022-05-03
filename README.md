@@ -1,2 +1,1 @@
-# TFuN
-Hakathon project
+# website to add data for FireBase
